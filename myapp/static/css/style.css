@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(245, 245, 245);
+}
+
+.heading {
+    background-color: rgb(183, 200, 214);
+    padding: 1.8rem 0 1rem 0;
+}
+
+.fruits {
+    background-color: rgb(202, 214, 183);
+    padding: 2rem 0 1rem 0;
+}
